@@ -101,8 +101,8 @@ sympy==1.14.0
 terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
-torch==2.9.1+cu126
-torchvision==0.24.1+cu126
+torch==2.9.1+cu130
+torchvision==0.24.1+cu130
 tornado==6.5.2
 traitlets==5.14.3
 typing_extensions==4.15.0
